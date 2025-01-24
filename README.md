@@ -17,8 +17,9 @@ This is a simple React app that allows you to enter a URL and generates a QR cod
 
 1. Run the app: `npm start`
 2. Enter a URL in the input field
-3. Click the "Generate QR Code" button to generate the QR code
-4. Click the "Download" button to download the generated QR code as an image
+3. Click the "Download" button to download the generated QR code as an SVG image
+
+![screenshot](7public/screenshot.png)
 
 ## Contributing
 
